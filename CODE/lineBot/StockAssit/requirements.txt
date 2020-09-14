@@ -1,0 +1,10 @@
+gunicorn
+Flask
+line-bot-sdk
+pymongo
+schedule
+datetime
+bs4
+requests
+clients
+suds-py3
